@@ -1,5 +1,5 @@
 # SDS_Project
-SmartBall app is a demo I made for a massage device with the same name.
+SmartBall app is a demo I, Samuel Repo, made for a massage device with the same name.
 The app can be tested by cloning this repository and adding it as a project to Android Studio.
 From there it is installable to most android phones and runnable on android emulators.
 
